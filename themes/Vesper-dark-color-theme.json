@@ -2,12 +2,14 @@
   "name": "Vesper",
   "colors": {
     // Editor
-    "editor.background": "#0e0e0e",
+    "editor.background": "#0d0d0d",
     "editor.foreground": "#FFF",
     "editor.selectionBackground": "#FFFFFF25",
     "editor.selectionHighlightBackground": "#FFFFFF25",
     "editorLineNumber.foreground": "#505050",
-    "editorGroupHeader.tabsBackground": "#101010",
+    "editorGroupHeader.tabsBackground": "#080808",
+    "editorGroupHeader.border": "#252525",
+    "editorGroupHeader.tabsBorder": "#252525",
     "editorWidget.background": "#101010",
     "editorWarning.foreground": "#FFC799",
     "editorError.foreground": "#FF8080",
@@ -40,9 +42,11 @@
     "titleBar.activeForeground": "#7E7E7E",
     "titleBar.inactiveForeground": "#707070",
     // Tab
-    "tab.border": "#101010",
-    "tab.activeBackground": "#161616",
-    "tab.inactiveBackground": "#101010",
+    "tab.border": "#252525",
+    "tab.activeBackground": "#080808",
+    "tab.inactiveBackground": "#080808",
+    // Terminal
+    "terminal.background": "#0d0d0d",
     // Status bar
     "statusBar.debuggingForeground": "#FFF",
     "statusBar.debuggingBackground": "#FF7300",
