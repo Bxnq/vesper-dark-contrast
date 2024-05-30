@@ -1,7 +1,7 @@
 {
-  "name": "vesper",
-  "displayName": "Vesper",
-  "publisher": "raunofreiberg, mabengt",
+  "name": "vesper-dark-contrast",
+  "displayName": "Vesper Dark Contrast",
+  "publisher": "bxnq",
   "description": "Peppermint and orange flavored dark theme for VSCode. Original by raunofreiberg",
   "license": "MIT",
   "repository": {
